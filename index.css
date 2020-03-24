@@ -1,0 +1,48 @@
+* {
+    background-color: #000;
+    color: #fff;
+}
+
+#navbar {
+    width: 300px;
+    border: 1px solid #fff;
+    position: fixed;
+    top: 0;
+    overflow: scroll;
+    height: 100%;
+}
+
+.nav-header {
+    text-align: center;
+    font-size: 30px;
+}
+
+.list-wrap {
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+    font-size: 24px;
+}
+
+.nav-list {
+    border: 1px solid #fff;
+    line-height: 2em;
+}
+
+().nav-list.nav-link):hover{
+    background-color: #fff;
+    color: #000;
+}
+
+/*.nav-link:hover {
+    width: 100%;
+    background-color: #fff;
+    color: #000;
+}
+
+@media {
+   #navbar {
+        width: 50%;
+   } 
+}
+*/
